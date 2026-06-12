@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mostafa Mohammed
 
-<!--
-**mostafamohamed521/mostafamohamed521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Python and Django.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django
+- PostgreSQL
+- REST APIs
+- Git & GitHub
+
+## Current Focus
+
+Building scalable backend systems.
+
+## Featured Projects
+
+- Furni
+- Iron Forge
+- QR Generator
