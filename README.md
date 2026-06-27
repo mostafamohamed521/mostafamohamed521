@@ -188,3 +188,101 @@
 🎓 Educational Platform
 
 💼 Backend APIs
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏋️ Gym Management System | Complete Gym Management Platform | Django, PostgreSQL |
+| 🏥 TechCare | Healthcare Management System | Django, DRF |
+| 👕 Fashion Brand | E-Commerce Platform | Django |
+| 🎓 Educational Platform | Learning Management System | Django |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+🐍 Advanced Django
+⚡ Django REST Framework
+🐳 Docker
+☸ Kubernetes
+🔧 CI/CD
+☁ AWS
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Django
+- ✅ Master Django REST Framework
+- 🔄 Learn Docker
+- 🔄 Learn Kubernetes
+- 🔄 Build Large Scale APIs
+- 🔄 Contribute to Open Source
+- 🎯 Land Backend Engineer Position
+
+---
+
+# 💻 My Coding Journey
+
+```text
+Python          ████████████████████ 95%
+
+Django          ██████████████████░ 90%
+
+REST API        █████████████████░░ 85%
+
+PostgreSQL      ████████████████░░░ 80%
+
+Docker          ███████████░░░░░░░░ 55%
+
+Linux           ███████████████░░░░ 75%
+
+Git             █████████████████░░ 85%
+```
+
+---
+
+# 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mostafamohamed521">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+
+</div>
