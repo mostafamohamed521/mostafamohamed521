@@ -1,36 +1,26 @@
-# Hi, I'm Mostafa Mohammed
+<h1 align="center">Hi 👋, I'm Mostafa Mohamed</h1>
+<h3 align="center">Backend Django Developer from Egypt 🇪🇬</h3>
 
-Backend Developer focused on Django and PostgreSQL.
+---
 
-## Technologies
+## 👨‍💻 About Me
 
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- Git
-- GitHub
+- 🎓 Computer Science Student
+- 💻 Backend Developer (Django)
+- 🌱 Currently learning Django REST Framework & Docker
+- 🚀 Interested in Backend Development & DevOps
 
-## Featured Projects
+---
 
-### Iron Forge
-Gym Management & Booking Platform
+## 🛠️ Languages and Tools
 
-### Sarab
-Food Ordering and Reservation Platform
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,github,docker,linux,html,css,js,vscode" />
+</p>
 
-### MaleFashion
-Men's Fashion E-Commerce Platform
+---
 
-### Furni
-Furniture E-Commerce Platform
+## 📫 Contact Me
 
-### QR Generator
-QR Code Generation System
-
-## Current Focus
-
-- Backend Development
-- Database Design
-- REST APIs
-- Software Architecture
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: (ضع لينك لينكدإن هنا)
