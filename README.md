@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mostafa Mohamed
 
-### Full-Stack Developer | ML Enthusiast | CS Student @ Mansoura University
+### Backend Django Developer | REST API Developer | CS Student @ Mansoura University
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Django+%2F+React+Developer;Machine+Learning+%26+Recommender+Systems;Flutter+%26+Mobile+Development;Building+Products+End-to-End" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Django+Developer;REST+API+Developer;Python+Enthusiast;Building+Full-Stack+Products" />
 
 <br>
 
@@ -22,11 +22,11 @@
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Third-year Computer Science student, Faculty of Computers and Information, Mansoura University
-- 💻 Full-stack developer — Django backends, React frontends, Flutter mobile apps
-- 🤖 Building ML-powered products (recommender systems, NLP, classical AI search/optimization algorithms)
-- 🎨 Strong focus on clean, professional, "premium-brand" level UI/UX — not just functional, but polished
-- 🌱 Currently deepening: Docker, CI/CD, System Design, AWS
-- 🎯 2026 goals: ship production-grade backend systems, master containerization & cloud deployment, contribute to open source
+- 💻 Backend developer specializing in Django & Django REST Framework
+- 🌐 Comfortable across the stack — React and Flutter for frontend/mobile when a project needs it
+- 🎨 Strong focus on clean, professional, production-quality builds — not just "it works," but well-structured and well-designed
+- 🌱 Currently learning: Docker, CI/CD, System Design, AWS, Kubernetes
+- 🎯 2026 goals: become a strong Backend Software Engineer, master Docker & cloud deployment, contribute to open source
 
 <br clear="right"/>
 
@@ -38,41 +38,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 CineMatch
-AI-powered Netflix-style content recommender
-- TF-IDF + Cosine Similarity engine on ~8,790 titles
-- React (Vite) frontend with a cinematic red-palette design
-- Real TMDB poster artwork, search-centric UX
-- Built with a 3-person team (frontend + ML)
-
-</td>
-<td width="50%" valign="top">
-
 ### 📚 EduSphere
 Arabic-language Django LMS
-- Dedicated portals for students, instructors & admins
+- Separate portals for students, instructors & admins
 - Course management, quizzes, progress tracking
 - Currently on Sprint 3 (Instructor Portal)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 TechCare
-Flutter-based healthcare platform
+Flutter healthcare platform, Django REST backend
 - Doctor, Nurse, Patient & Donor user roles
 - In-app wallet system with atomic transactions & ledger auditing
-- Django REST backend
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Kalimat Crash (كلمات كراش)
-Arabic word-puzzle mobile game — 100 levels, 4 modes
-- Classical AI: CSP, Backtracking, A*
-- Minimax with alpha-beta pruning
-- Genetic Algorithm & Hill Climbing solvers
 
 </td>
 </tr>
@@ -82,15 +60,32 @@ Arabic word-puzzle mobile game — 100 levels, 4 modes
 ### 👕 MaleFashion
 Premium men's fashion e-commerce (Django)
 - Design inspired by Zara / COS / Massimo Dutti
-- Full cart, checkout & order management
+- Full cart, checkout & order management, Stripe integration
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏋 IronForge
-Gym management SaaS
+Gym management SaaS (Django)
 - Stripe subscription billing
 - Membership tracking & admin dashboard
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CineMatch
+Content discovery web app — React frontend
+- Cinematic red-palette UI with real poster artwork
+- Search-centric homepage, built with a 3-person team
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Kalimat Crash (كلمات كراش)
+Arabic word-puzzle mobile game — 100 levels, 4 modes
+- Search & optimization algorithms (backtracking, A*, minimax)
 
 </td>
 </tr>
@@ -118,17 +113,14 @@ Gym management SaaS
 
 <div align="center">
 
-**Languages & Backend**
-<p><img src="https://skillicons.dev/icons?i=python,django,flask,dart"/></p>
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=python,django,flask"/></p>
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite"/></p>
+**Frontend & Mobile**
+<p><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,dart,flutter"/></p>
 
 **Database**
 <p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/></p>
-
-**ML / Data**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,py"/></p>
 
 **Tools & DevOps**
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/></p>
@@ -150,20 +142,20 @@ Gym management SaaS
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Backend Roadmap
 
 ```text
 ✅ Python                     ████████████████████ 100%
 ✅ OOP                        ████████████████████ 100%
-✅ Django / DRF                ██████████████████░░ 90%
-✅ React                      █████████████████░░░ 85%
-🟨 Flutter                    ███████████████░░░░░ 75%
-🟨 Machine Learning            ██████████████░░░░░░ 70%
-🟨 PostgreSQL                  ███████████████░░░░░ 80%
+✅ Django                     ██████████████████░░ 90%
+✅ Django REST Framework       █████████████████░░░ 85%
+🟨 PostgreSQL                  ████████████████░░░░ 80%
 🟨 Docker                      █████████████░░░░░░░ 65%
-⬜ CI/CD                      ██████░░░░░░░░░░░░░░ 30%
+⬜ Redis                      ██████░░░░░░░░░░░░░░ 30%
+⬜ Celery                     █████░░░░░░░░░░░░░░░ 25%
+⬜ CI/CD                      █████░░░░░░░░░░░░░░░ 25%
 ⬜ Kubernetes                  ███░░░░░░░░░░░░░░░░░ 15%
-⬜ AWS                        ███░░░░░░░░░░░░░░░░░ 15%
+⬜ AWS                        ██░░░░░░░░░░░░░░░░░░ 10%
 ```
 
 ---
