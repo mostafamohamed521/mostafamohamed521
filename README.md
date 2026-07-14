@@ -17,54 +17,20 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 💫 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```text
-╭────────────────────────────────────────────────────────────────────────────────────────────╮
-│ 🔴 🟡 🟢                                         mostafa@backend ~ ./profile --live         │
-├────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                            │
-│                                LOADING DEVELOPER PROFILE...                                │
-│                                                                                            │
-╰────────────────────────────────────────────────────────────────────────────────────────────╯
-```
+- 🎓 Third-year Computer Science student, Faculty of Computers and Information, Mansoura University
+- 💻 Backend developer specializing in Django & Django REST Framework
+- 🌐 Comfortable across the stack — React and Flutter for frontend/mobile when a project needs it
+- 🎨 Strong focus on clean, professional, production-quality builds — not just "it works," but well-structured and well-designed
+- 🌱 Currently learning: Docker, CI/CD, System Design, AWS, Kubernetes
+- 🎯 2026 goals: become a strong Backend Software Engineer, master Docker & cloud deployment, contribute to open source
 
-</div>
+<br clear="right"/>
 
-<br>
-<div align="center">
-
-```text
-┌────────────────────────────── SYSTEM.INFO ──────────────────────────────┐
-│                                                                         │
-│ 👤 Subject        :: Mostafa Mohamed                                    │
-│ 💼 Role           :: Backend Django Developer                           │
-│ 🎓 Education      :: Computer Science Student                           │
-│                     Mansoura University                                 │
-│                                                                         │
-│ 🌍 Location       :: Egypt                                              │
-│ 🚀 Status         :: Building • Learning • Shipping                     │
-│                                                                         │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│ 🐍 Core Language  :: Python                                             │
-│ ⚙ Backend        :: Django • Django REST Framework                     │
-│ 🌐 Frontend      :: React • HTML • CSS • JavaScript                    │
-│ 📱 Mobile        :: Flutter                                             │
-│ 🗄 Database      :: PostgreSQL • MySQL • SQLite                         │
-│ 🛠 Tools         :: Git • GitHub • Docker • Postman • Linux             │
-│                                                                         │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│ 🎯 Current Focus :: REST APIs • Docker • System Design                  │
-│ 📚 Learning      :: AWS • Kubernetes • CI/CD                            │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+---
 
 ## 🚀 Featured Projects
 
