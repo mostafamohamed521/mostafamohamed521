@@ -34,6 +34,37 @@
 </div>
 
 <br>
+<div align="center">
+
+```text
+┌────────────────────────────── SYSTEM.INFO ──────────────────────────────┐
+│                                                                         │
+│ 👤 Subject        :: Mostafa Mohamed                                    │
+│ 💼 Role           :: Backend Django Developer                           │
+│ 🎓 Education      :: Computer Science Student                           │
+│                     Mansoura University                                 │
+│                                                                         │
+│ 🌍 Location       :: Egypt                                              │
+│ 🚀 Status         :: Building • Learning • Shipping                     │
+│                                                                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│ 🐍 Core Language  :: Python                                             │
+│ ⚙ Backend        :: Django • Django REST Framework                     │
+│ 🌐 Frontend      :: React • HTML • CSS • JavaScript                    │
+│ 📱 Mobile        :: Flutter                                             │
+│ 🗄 Database      :: PostgreSQL • MySQL • SQLite                         │
+│ 🛠 Tools         :: Git • GitHub • Docker • Postman • Linux             │
+│                                                                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│ 🎯 Current Focus :: REST APIs • Docker • System Design                  │
+│ 📚 Learning      :: AWS • Kubernetes • CI/CD                            │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ## 🚀 Featured Projects
 
