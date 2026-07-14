@@ -17,20 +17,23 @@
 
 ---
 
-## 💫 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-- 🎓 Third-year Computer Science student, Faculty of Computers and Information, Mansoura University
-- 💻 Backend developer specializing in Django & Django REST Framework
-- 🌐 Comfortable across the stack — React and Flutter for frontend/mobile when a project needs it
-- 🎨 Strong focus on clean, professional, production-quality builds — not just "it works," but well-structured and well-designed
-- 🌱 Currently learning: Docker, CI/CD, System Design, AWS, Kubernetes
-- 🎯 2026 goals: become a strong Backend Software Engineer, master Docker & cloud deployment, contribute to open source
+```text
+╭────────────────────────────────────────────────────────────────────────────────────────────╮
+│ 🔴 🟡 🟢                                         mostafa@backend ~ ./profile --live         │
+├────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                            │
+│                                LOADING DEVELOPER PROFILE...                                │
+│                                                                                            │
+╰────────────────────────────────────────────────────────────────────────────────────────────╯
+```
 
-<br clear="right"/>
+</div>
 
----
+<br>
 
 ## 🚀 Featured Projects
 
