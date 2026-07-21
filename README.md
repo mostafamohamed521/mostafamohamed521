@@ -4,78 +4,81 @@
 
 ### Software Engineer
 
-Building scalable software with **ASP.NET Core**, **Django**, and **React**.
+**Building scalable, secure, and modern software with ASP.NET Core, Django, and React.**
 
-<p>
-  <a href="https://www.linkedin.com/in/mostafamohamed92895">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mostafamohamed92895@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mostafamohamed521">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/mostafamohamed521">
+<img src="https://img.shields.io/github/followers/mostafamohamed521?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/mostafamohamed92895">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mostafamohamed92895@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mostafamohamed521">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## Engineering
+# 👨‍💻 About Me
 
-```text
-Software Engineer focused on building production-ready web
-applications, enterprise systems, and secure REST APIs.
+I'm a **Software Engineer** passionate about designing and developing high-quality software solutions that solve real business problems.
 
-Primary Stack
-─────────────
-• ASP.NET Core
-• Django
-• React
+My primary expertise is in **Backend Development** using **ASP.NET Core** and **Django**, with strong experience building RESTful APIs, authentication systems, business management platforms, and production-ready web applications.
 
-Interested In
-─────────────
-• Cloud Computing
-• DevOps
-• System Design
-• Application Security
-```
+I also enjoy creating modern user experiences using **React**, and I'm continuously expanding my knowledge in **Cloud Computing**, **DevOps**, **System Design**, and **Application Security**.
+
+I believe software is more than writing code—it's about building scalable architectures, delivering great user experiences, and creating products that make an impact.
 
 ---
 
-# Featured Projects
+## 🚀 What I Do
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏋 **GymX** | Enterprise Gym Management Platform | Django • PostgreSQL |
-| 🎬 **CINEMATCH** | AI Movie Recommendation Platform | React • ML |
-| 🛒 **WEBTECH** | Full Stack E-Commerce | React • DRF |
-| 🔳 **QR Forge** | Professional QR Generator | Django |
-| 🍔 **Sarab** | Restaurant Platform | Django |
-| 👔 **MaleFashion** | Fashion E-Commerce | Django |
+- 🏗 Build scalable Backend systems using ASP.NET Core & Django
+- ⚡ Design and develop RESTful APIs
+- 🎨 Build responsive React applications
+- 🗄 Design relational databases and optimized data models
+- 🔐 Develop secure authentication & authorization systems
+- 🐳 Deploy applications using Docker and Linux
+- 📚 Continuously learn modern software engineering practices
 
-# Tech Stack
+---
 
-<p align="center">
+## ⚡ Engineering Focus
 
-<img src="https://skillicons.dev/icons?i=python,cs,django,dotnet,react,js,flutter,postgres,mysql,sqlite,docker,linux,git,github,aws"/>
+```text
+Backend Development
+██████████████████████████
 
-</p>
+Full Stack Development
+███████████████████████
 
-# Certifications
+REST API Development
+██████████████████████
 
-### Backend
-- Django REST Framework
-- Python Essentials
-- Database Fundamentals
+Database Design
+████████████████████
 
-### Security
-- OWASP Top 10
-- Ethical Hacking
-- Cloud Security
-- Network Security
+Application Security
+███████████████████
 
-### Infrastructure
-- Red Hat System Administration
-- Cisco Networking
+Cloud & DevOps
+██████████████
+
+System Design
+████████████
+```
+
+---
