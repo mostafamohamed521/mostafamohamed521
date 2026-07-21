@@ -155,3 +155,225 @@ API Security
 # 💡 Engineering Philosophy
 
 > **"I don't just write code. I design systems that are scalable, maintainable, and built for real users."**
+
+---
+
+# ⚙️ Engineering Ecosystem
+
+<div align="center">
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,js,dart,html,css&perline=6"/>
+</p>
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,dotnet,nodejs&perline=6"/>
+</p>
+
+**Specialized in**
+
+✔ ASP.NET Core
+
+✔ Django
+
+✔ Django REST Framework
+
+✔ RESTful API Design
+
+✔ Authentication & Authorization
+
+✔ Role-Based Access Control (RBAC)
+
+---
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite,flutter&perline=6"/>
+</p>
+
+Building responsive and modern user interfaces focused on performance and user experience.
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=6"/>
+</p>
+
+Also experienced with
+
+- SQL Server
+- Database Design
+- Normalization
+- Query Optimization
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,aws&perline=6"/>
+</p>
+
+Currently expanding my experience in
+
+- Docker
+- CI/CD
+- Kubernetes
+- AWS Cloud
+- Linux Administration
+
+---
+
+## Security
+
+<p>
+
+🛡️ OWASP Top 10
+
+🔑 JWT Authentication
+
+🔒 Secure REST APIs
+
+🧩 Authentication & Authorization
+
+👤 RBAC
+
+🐧 Linux Security
+
+</p>
+
+</div>
+
+---
+
+# 📊 Engineering Skills
+
+| Domain | Technologies |
+|---------|--------------|
+| 💻 Backend | ASP.NET Core • Django • Django REST Framework |
+| 🎨 Frontend | React • JavaScript • Bootstrap • Tailwind CSS • Flutter |
+| 🗄 Databases | PostgreSQL • SQL Server • MySQL • SQLite |
+| ⚙ DevOps | Docker • Linux • Git • GitHub Actions |
+| ☁ Cloud | AWS (Learning) • Kubernetes (Learning) |
+| 🔐 Security | OWASP Top 10 • JWT • Secure APIs |
+| 🧠 Software Engineering | OOP • Design Patterns • Clean Architecture • REST APIs |
+
+---
+
+# 🚀 Core Expertise
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🏗 Backend Engineering
+
+- ASP.NET Core
+- Django
+- Django REST Framework
+- REST APIs
+- Authentication
+- Authorization
+- JWT
+- RBAC
+- CRUD Systems
+- API Integration
+
+</td>
+
+<td width="50%">
+
+### ⚡ Modern Frontend
+
+- React
+- JavaScript
+- Responsive Design
+- Bootstrap
+- Tailwind CSS
+- Flutter
+- State Management
+- Axios
+- Framer Motion
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ☁ DevOps
+
+- Docker
+- Linux
+- Git
+- GitHub
+- Deployment
+- Nginx
+- Gunicorn
+- CI/CD Fundamentals
+
+</td>
+
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+- OWASP Top 10
+- Secure Authentication
+- Secure Authorization
+- Password Security
+- API Security
+- Web Security
+- Basic Penetration Testing
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Current Focus
+
+```text
+✔ Enterprise Software Development
+
+✔ Full Stack Web Applications
+
+✔ ASP.NET Core
+
+✔ Django REST Framework
+
+✔ React
+
+✔ Docker
+
+✔ System Design
+
+✔ Cloud Computing
+
+✔ Cybersecurity
+
+✔ Clean Architecture
+```
+
+---
+
+# 🌍 Beyond Coding
+
+> I enjoy building software that solves real business problems, exploring modern software architecture, learning new technologies, and continuously improving my engineering mindset.
+
