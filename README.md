@@ -377,3 +377,375 @@ Currently expanding my experience in
 
 > I enjoy building software that solves real business problems, exploring modern software architecture, learning new technologies, and continuously improving my engineering mindset.
 
+---
+
+# 🚀 Featured Projects
+
+> A selection of projects that reflect my passion for building scalable, production-ready software.
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏋️ GymX
+
+### Enterprise Gym Management Platform
+
+A complete business ecosystem designed for modern fitness centers, covering every aspect of gym operations from member management to AI-powered analytics.
+
+### Highlights
+
+- 🏢 22 Business Modules
+- 👥 5 User Roles
+- 📄 370+ Templates
+- 🤖 AI Features
+- 📊 Reports & Analytics
+- 💳 Payments
+- 🧾 Finance
+- 📦 Inventory
+- 🏢 Multi Branch
+- 📱 Member Portal
+
+### Tech
+
+`Django`
+`PostgreSQL`
+`Bootstrap`
+`JavaScript`
+`RBAC`
+
+**Repository →**
+🔗 https://github.com/mostafamohamed521/GymX
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_GYMX_SCREENSHOT"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="YOUR_WEBTECH_SCREENSHOT"/>
+
+</td>
+
+<td width="50%">
+
+## 🛒 WEBTECH
+
+### Modern E-Commerce Platform
+
+A full-stack shopping platform featuring authentication, product management, wishlist, secure checkout, reviews, coupons, and a premium shopping experience.
+
+### Features
+
+✔ React Frontend
+
+✔ Django REST API
+
+✔ Tailwind CSS
+
+✔ Framer Motion
+
+✔ Authentication
+
+✔ Cart
+
+✔ Wishlist
+
+✔ Checkout
+
+✔ Orders
+
+✔ Reviews
+
+✔ Coupons
+
+### Tech
+
+`React`
+
+`Django REST Framework`
+
+`Tailwind CSS`
+
+`PostgreSQL`
+
+`Framer Motion`
+
+**Repository →**
+
+🔗 https://github.com/mostafamohamed521/WEBTECH
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎬 CINEMATCH
+
+### AI Movie Recommendation Platform
+
+Netflix-inspired movie recommendation platform powered by Machine Learning and intelligent similarity algorithms.
+
+### Features
+
+🤖 AI Recommendation Engine
+
+🎬 Netflix UI
+
+🔍 Smart Search
+
+⭐ Trending Movies
+
+❤️ Favorites
+
+📱 Responsive
+
+🌙 Dark Theme
+
+⚡ Lightning Fast
+
+### Tech
+
+`React`
+
+`Machine Learning`
+
+`TMDB API`
+
+`JavaScript`
+
+`Framer Motion`
+
+**Repository →**
+
+🔗 https://github.com/mostafamohamed521/CINEMATCH
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_CINEMATCH_SCREENSHOT"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="YOUR_QRFORGE_SCREENSHOT"/>
+
+</td>
+
+<td width="50%">
+
+## 🔳 QR Forge
+
+### Professional QR Code Generator
+
+Generate customizable QR codes with multiple formats, color customization, sharing, clipboard integration, and history tracking.
+
+### Features
+
+✔ 8 QR Types
+
+✔ PNG Export
+
+✔ Clipboard API
+
+✔ Share API
+
+✔ QR History
+
+✔ Custom Colors
+
+✔ Rounded QR
+
+✔ Responsive
+
+### Tech
+
+`Django`
+
+`Python`
+
+`JavaScript`
+
+`HTML`
+
+`CSS`
+
+**Repository →**
+
+🔗 https://github.com/mostafamohamed521/qr_generator
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🍔 Sarab
+
+### Restaurant Management Platform
+
+Production-ready restaurant ordering and reservation system including online payments, reservations, coupons, customer accounts, and REST APIs.
+
+### Features
+
+🍽 Online Ordering
+
+📅 Reservations
+
+💳 Payments
+
+🎟 Coupons
+
+📦 Orders
+
+⭐ Reviews
+
+❤️ Wishlist
+
+📱 Responsive
+
+### Tech
+
+`Django`
+
+`DRF`
+
+`SQLite`
+
+`Bootstrap`
+
+**Repository →**
+
+🔗 https://github.com/mostafamohamed521/Sarab
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_SARAB_SCREENSHOT"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="YOUR_MALEFASHION_SCREENSHOT"/>
+
+</td>
+
+<td width="50%">
+
+## 👔 MaleFashion
+
+### Premium Men's Fashion Store
+
+Modern e-commerce solution for fashion brands with shopping cart, coupons, blog, authentication, and dashboard.
+
+### Features
+
+🛍 Products
+
+❤️ Wishlist
+
+💳 Checkout
+
+📰 Blog
+
+👤 Dashboard
+
+🎟 Coupons
+
+📦 Orders
+
+📱 Responsive
+
+### Tech
+
+`Django`
+
+`Bootstrap`
+
+`SQLite`
+
+`JavaScript`
+
+**Repository →**
+
+🔗 https://github.com/mostafamohamed521/MaleFashion
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| 🚀 Featured Projects | 6 |
+| 💻 Technologies Used | 25+ |
+| 🏗 Enterprise Applications | 4 |
+| 🌐 Full Stack Applications | 6 |
+| 🔗 REST APIs | 15+ |
+| 🧩 Business Domains | Fitness • AI • E-Commerce • Restaurant • Productivity |
+
+---
