@@ -1,17 +1,27 @@
 <div align="center">
 
-# Hi 👋, I'm Mostafa Mohamed
+<img src="assets/banner.png" width="100%">
+
+# Hi, I'm Mostafa Mohamed 👋
 
 ### Software Engineer
 
-Building scalable software with **ASP.NET Core**, **Django**, and **React**.
+Building modern software with **ASP.NET Core**, **Django**, and **React**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Full-Stack+Developer;REST+API+Developer;Cloud+%26+DevOps+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Full+Stack+Developer;REST+API+Developer;Cloud+Learner"/>
 
 <br>
 
+<a href="mailto:mostafamohamed92895@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mostafamohamed92895">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 <a href="https://github.com/mostafamohamed521">
-<img src="https://img.shields.io/github/followers/mostafamohamed521?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/mostafamohamed521?style=for-the-badge"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge"/>
@@ -20,34 +30,31 @@ Building scalable software with **ASP.NET Core**, **Django**, and **React**.
 
 ---
 
+# 👨‍💻 About Me
+
 <table>
 <tr>
 
-<td width="58%">
+<td width="60%">
 
-## 👨‍💻 About Me
+Software Engineer passionate about building scalable web applications and backend systems.
 
-Software Engineer passionate about building modern, scalable and secure applications.
+My primary technologies are **ASP.NET Core**, **Django**, and **React**.
 
-My main focus is Backend Engineering using **ASP.NET Core** and **Django**, while also building modern frontends with **React**.
+Currently learning:
 
-Currently learning Cloud, DevOps, Microservices and Software Architecture.
-
-### Current Focus
-
-- ASP.NET Core
-- Django
-- React
-- Docker
-- Linux
-- PostgreSQL
-- OWASP Top 10
+- ☁️ Cloud Computing
+- 🐳 Docker
+- ⚙️ DevOps
+- 🏗️ System Design
+- ☸️ Kubernetes
+- 🔐 Application Security
 
 </td>
 
-<td width="42%">
+<td width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="assets/programmer.png" width="100%">
 
 </td>
 
@@ -62,23 +69,45 @@ Currently learning Cloud, DevOps, Microservices and Software Architecture.
 
 <tr>
 
-<td width="50%">
+<td align="center" width="33%">
 
-## 🏋 GymX
+<a href="https://github.com/mostafamohamed521/GymX">
 
-Enterprise Gym Management Platform
+<img src="assets/gymx.png">
 
-**ASP.NET Core • Django • PostgreSQL**
+### 🏋 GymX
+
+Enterprise Gym Management
+
+</a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="33%">
 
-## 🎬 CINEMATCH
+<a href="https://github.com/mostafamohamed521/CINEMATCH">
 
-AI Movie Recommendation Platform
+<img src="assets/cinematch.png">
 
-**React • Machine Learning**
+### 🎬 CINEMATCH
+
+AI Movie Recommendation
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/mostafamohamed521/WEBTECH">
+
+<img src="assets/webtech.png">
+
+### 🛒 WEBTECH
+
+Modern E-Commerce
+
+</a>
 
 </td>
 
@@ -86,47 +115,45 @@ AI Movie Recommendation Platform
 
 <tr>
 
-<td width="50%">
+<td align="center">
 
-## 🛒 WEBTECH
+<a href="https://github.com/mostafamohamed521/QR-Forge">
 
-Modern E-Commerce Platform
+<img src="assets/qrforge.png">
 
-**React • Django REST**
+### 🔳 QR Forge
 
-</td>
+QR Code Generator
 
-<td width="50%">
-
-## 🔳 QR Forge
-
-Professional QR Code Generator
-
-**Django**
+</a>
 
 </td>
 
-</tr>
+<td align="center">
 
-<tr>
+<a href="https://github.com/mostafamohamed521/Sarab">
 
-<td width="50%">
+<img src="assets/sarab.png">
 
-## 🍔 Sarab
+### 🍔 Sarab
 
-Restaurant Ordering Platform
+Restaurant Platform
 
-**Django**
+</a>
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-## 👔 MaleFashion
+<a href="https://github.com/mostafamohamed521/MaleFashion">
 
-Fashion E-Commerce Platform
+<img src="assets/malefashion.png">
 
-**Django**
+### 👔 MaleFashion
+
+Fashion Store
+
+</a>
 
 </td>
 
@@ -136,7 +163,7 @@ Fashion E-Commerce Platform
 
 ---
 
-# ⚙ Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
@@ -153,7 +180,7 @@ Fashion E-Commerce Platform
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter"/>
 </p>
 
 ### Database
@@ -165,12 +192,12 @@ Fashion E-Commerce Platform
 ### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,aws"/>
 </p>
 
 ### Security
 
-OWASP Top 10 • JWT • RBAC • REST APIs
+`OWASP Top 10` • `JWT` • `REST APIs` • `RBAC`
 
 ---
 
@@ -192,42 +219,34 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed521&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed521&layout=compact&theme=github_dark&hide_border=true">
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=mostafamohamed521&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=mostafamohamed521&theme=github-dark-blue&hide_border=true">
 
 </p>
 
 ---
 
+# 🐍 Contribution Graph
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
+### Thanks for visiting ❤️
 
-<a href="mailto:mostafamohamed92895@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Building software one commit at a time.
 
-<a href="https://www.linkedin.com/in/mostafamohamed92895">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mostafamohamed521">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
