@@ -79,45 +79,47 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/GymX">
 
-<img src="assets/gymx.png" width="100%">
+<img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800" width="100%">
 
-### 🏋 GymX
+<h3>🏋 GymX</h3>
 
-Enterprise Gym Management Platform
+<p>Enterprise Gym Management Platform</p>
 
-**ASP.NET Core • Django • PostgreSQL**
+<b>ASP.NET Core • Django • PostgreSQL</b>
 
 </a>
 
 </td>
+
 
 <td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/CINEMATCH">
 
-<img src="assets/cinematch.png" width="100%">
+<img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800" width="100%">
 
-### 🎬 CINEMATCH
+<h3>🎬 CINEMATCH</h3>
 
-AI Movie Recommendation Platform
+<p>AI Movie Recommendation Platform</p>
 
-**React • AI • TMDB API**
+<b>React • AI • TMDB API</b>
 
 </a>
 
 </td>
 
+
 <td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/WEBTECH">
 
-<img src="assets/webtech.png" width="100%">
+<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800" width="100%">
 
-### 🛒 WEBTECH
+<h3>🛒 WEBTECH</h3>
 
-Modern E-Commerce Platform
+<p>Modern E-Commerce Platform</p>
 
-**React • Django REST**
+<b>React • Django REST</b>
 
 </a>
 
@@ -125,63 +127,68 @@ Modern E-Commerce Platform
 
 </tr>
 
+
 <tr>
 
-<td align="center">
+
+<td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/qr_generator">
 
-<img src="assets/qrforge.png" width="100%">
+<img src="https://images.unsplash.com/photo-1614680376739-414d95ff43df?w=800" width="100%">
 
-### 🔳 QR Forge
+<h3>🔳 QR Forge</h3>
 
-Professional QR Generator
+<p>Professional QR Generator</p>
 
-**Django • JavaScript**
+<b>Django • JavaScript</b>
 
 </a>
 
 </td>
 
-<td align="center">
+
+
+<td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/Sarab">
 
-<img src="assets/sarab.png" width="100%">
+<img src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=800" width="100%">
 
-### 🍔 Sarab
+<h3>🍔 Sarab</h3>
 
-Restaurant Ordering Platform
+<p>Restaurant Ordering Platform</p>
 
-**Django**
+<b>Django</b>
 
 </a>
 
 </td>
 
-<td align="center">
+
+
+<td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/MaleFashion">
 
-<img src="assets/malefashion.png" width="100%">
+<img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800" width="100%">
 
-### 👔 MaleFashion
+<h3>👔 MaleFashion</h3>
 
-Fashion E-Commerce
+<p>Fashion E-Commerce</p>
 
-**Django**
+<b>Django</b>
 
 </a>
 
 </td>
+
 
 </tr>
 
 </table>
 
 </div>
-
----
 # ⚡ Tech Stack
 
 <div align="center">
