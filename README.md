@@ -58,7 +58,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <td width="40%" align="center">
 
-<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="320" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/images/coding.gif" onerror="this.style.display='none'"/>
 
 </td>
 
@@ -79,7 +79,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/GymX">
 
-<img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600" width="220" height="130" style="border-radius:10px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:7C2D12&height=130&text=GymX&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
 
 <h3>🏋 GymX</h3>
 
@@ -100,7 +100,7 @@ ASP.NET Core • Django • PostgreSQL
 
 <a href="https://github.com/mostafamohamed521/CINEMATCH">
 
-<img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600" width="220" height="130" style="border-radius:10px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:1E1B4B&height=130&text=CINEMATCH&fontSize=28&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
 
 <h3>🎬 CINEMATCH</h3>
 
@@ -121,7 +121,7 @@ React • AI • TMDB API
 
 <a href="https://github.com/mostafamohamed521/WEBTECH">
 
-<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600" width="220" height="130" style="border-radius:10px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:022C22&height=130&text=WEBTECH&fontSize=30&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
 
 <h3>🛒 WEBTECH</h3>
 
@@ -147,7 +147,7 @@ React • Django REST
 
 <a href="https://github.com/mostafamohamed521/qr_generator">
 
-<img src="https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=600" width="220" height="130" style="border-radius:10px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:0C4A6E&height=130&text=QR%20Forge&fontSize=30&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
 
 <h3>🔳 QR Forge</h3>
 
@@ -169,7 +169,7 @@ Django • JavaScript
 
 <a href="https://github.com/mostafamohamed521/Sarab">
 
-<img src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=600" width="220" height="130" style="border-radius:10px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:7C2D12&height=130&text=Sarab&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
 
 <h3>🍔 Sarab</h3>
 
@@ -191,7 +191,7 @@ Django
 
 <a href="https://github.com/mostafamohamed521/MaleFashion">
 
-<img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600" width="220" height="130" style="border-radius:10px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:111111&height=130&text=MaleFashion&fontSize=26&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
 
 <h3>👔 MaleFashion</h3>
 
@@ -271,7 +271,7 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed521&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -295,30 +295,13 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 </div>
 
 ---
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mostafamohamed92895@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mostafamohamed92895">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mostafamohamed521">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg"/>
+
+<sub>⚠️ لازم يكون عندك GitHub Action اسمه <code>snake.yml</code> شغال على الريبو <code>mostafamohamed521/mostafamohamed521</code> عشان الصورة دي تظهر، وإلا هتفضل مكسورة.</sub>
 
 </div>
 
