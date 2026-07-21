@@ -79,13 +79,22 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/GymX">
 
-<img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800" width="100%">
+<img 
+src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600"
+width="250"
+height="150"
+style="border-radius:12px;object-fit:cover;"
+>
 
 <h3>🏋 GymX</h3>
 
-<p>Enterprise Gym Management Platform</p>
+<p>
+Enterprise Gym Management Platform
+</p>
 
-<b>ASP.NET Core • Django • PostgreSQL</b>
+<b>
+ASP.NET Core • Django • PostgreSQL
+</b>
 
 </a>
 
@@ -96,13 +105,22 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/CINEMATCH">
 
-<img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800" width="100%">
+<img 
+src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600"
+width="250"
+height="150"
+style="border-radius:12px;object-fit:cover;"
+>
 
 <h3>🎬 CINEMATCH</h3>
 
-<p>AI Movie Recommendation Platform</p>
+<p>
+AI Movie Recommendation Platform
+</p>
 
-<b>React • AI • TMDB API</b>
+<b>
+React • AI • TMDB API
+</b>
 
 </a>
 
@@ -113,17 +131,27 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/WEBTECH">
 
-<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800" width="100%">
+<img 
+src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600"
+width="250"
+height="150"
+style="border-radius:12px;object-fit:cover;"
+>
 
 <h3>🛒 WEBTECH</h3>
 
-<p>Modern E-Commerce Platform</p>
+<p>
+Modern E-Commerce Platform
+</p>
 
-<b>React • Django REST</b>
+<b>
+React • Django REST
+</b>
 
 </a>
 
 </td>
+
 
 </tr>
 
@@ -135,13 +163,22 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/qr_generator">
 
-<img src="https://images.unsplash.com/photo-1614680376739-414d95ff43df?w=800" width="100%">
+<img 
+src="https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=600"
+width="250"
+height="150"
+style="border-radius:12px;object-fit:cover;"
+>
 
 <h3>🔳 QR Forge</h3>
 
-<p>Professional QR Generator</p>
+<p>
+Professional QR Generator
+</p>
 
-<b>Django • JavaScript</b>
+<b>
+Django • JavaScript
+</b>
 
 </a>
 
@@ -153,13 +190,22 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/Sarab">
 
-<img src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=800" width="100%">
+<img 
+src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=600"
+width="250"
+height="150"
+style="border-radius:12px;object-fit:cover;"
+>
 
 <h3>🍔 Sarab</h3>
 
-<p>Restaurant Ordering Platform</p>
+<p>
+Restaurant Ordering Platform
+</p>
 
-<b>Django</b>
+<b>
+Django
+</b>
 
 </a>
 
@@ -171,13 +217,22 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/MaleFashion">
 
-<img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800" width="100%">
+<img 
+src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600"
+width="250"
+height="150"
+style="border-radius:12px;object-fit:cover;"
+>
 
 <h3>👔 MaleFashion</h3>
 
-<p>Fashion E-Commerce</p>
+<p>
+Fashion E-Commerce
+</p>
 
-<b>Django</b>
+<b>
+Django
+</b>
 
 </a>
 
