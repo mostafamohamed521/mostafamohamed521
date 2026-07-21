@@ -34,25 +34,16 @@ and modern cloud technologies.
 
 ---
 
-## 👨‍💻 About
+### About Me
 
-<table>
-<tr>
+I'm a Software Engineer passionate about building modern, scalable and secure web applications.
 
-<td width="60%">
-
-Software Engineer passionate about building secure, scalable and production-ready applications.
-
-### Focus Areas
-
-- ⚡ ASP.NET Core
-- 🐍 Django
-- ⚛ React
-- ☁ Cloud Computing
-- 🐳 Docker
-- 🐧 Linux
+- 💻 ASP.NET Core & Django Backend
+- ⚛ React Frontend
+- ☁ Cloud & DevOps Enthusiast
+- 🐳 Docker & Linux
+- 🛡 OWASP Top 10
 - 🏗 System Design
-- 🔐 OWASP Top 10
 
 </td>
 
