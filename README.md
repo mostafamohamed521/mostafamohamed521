@@ -4,50 +4,71 @@
 
 ### Software Engineer
 
-Building modern software with **ASP.NET Core**, **Django**, and **React**.
+Building scalable software with ASP.NET Core, Django & React.
+
+<br>
 
 <p>
-  <a href="https://github.com/mostafamohamed521">
-    <img src="https://img.shields.io/github/followers/mostafamohamed521?style=flat-square&logo=github&label=Followers"/>
-  </a>
+<a href="https://github.com/mostafamohamed521">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=flat-square"/>
+<a href="https://www.linkedin.com/in/mostafamohamed92895">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:mostafamohamed92895@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:mostafamohamed92895@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/mostafamohamed92895">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-000000?style=flat"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
+<table>
+<tr>
+
+<td width="60%">
+
 ## About
 
-I'm a Software Engineer passionate about building scalable web applications that solve real business problems.
+Software Engineer specializing in backend development and full-stack web applications.
 
-My primary focus is designing backend systems with **ASP.NET Core** and **Django**, while creating modern user experiences using **React**.
+I build secure, scalable and production-ready systems using **ASP.NET Core**, **Django**, and **React**.
 
-Beyond application development, I'm continuously expanding my knowledge in **Cloud Computing**, **DevOps**, **System Design**, and **Application Security** to build production-ready software.
+Currently exploring cloud infrastructure, DevOps, distributed systems, and application security.
 
----
+</td>
 
-### Currently Working With
+<td width="40%">
 
 ```text
-Backend      ASP.NET Core • Django • Django REST Framework
+Location
+Egypt 🇪🇬
 
-Frontend     React • JavaScript • Bootstrap • Tailwind CSS
+Focus
+Backend Engineering
 
-Database     PostgreSQL • SQL Server • MySQL • SQLite
+Experience
+Full Stack Development
 
-DevOps       Docker • Linux • Git • GitHub Actions
+Current Learning
+Docker
+Kubernetes
+AWS
+System Design
 
-Security     OWASP Top 10 • JWT • RBAC • REST APIs
 ```
+
+</td>
+
+</tr>
+</table>
 
 ---
