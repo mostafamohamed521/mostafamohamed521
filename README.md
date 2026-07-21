@@ -58,7 +58,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <td width="40%" align="center">
 
-<img width="320" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/images/coding.gif" onerror="this.style.display='none'"/>
+<img width="320" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:0B1220&text=%3C%2F%3E&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
 </td>
 
@@ -271,7 +271,7 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed521&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -290,7 +290,7 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mostafamohamed521&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mostafamohamed521&theme=algolia&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -300,8 +300,6 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg"/>
-
-<sub>⚠️ لازم يكون عندك GitHub Action اسمه <code>snake.yml</code> شغال على الريبو <code>mostafamohamed521/mostafamohamed521</code> عشان الصورة دي تظهر، وإلا هتفضل مكسورة.</sub>
 
 </div>
 
