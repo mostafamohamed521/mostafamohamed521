@@ -79,12 +79,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/GymX">
 
-<img 
-src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600"
-width="250"
-height="150"
-style="border-radius:12px;object-fit:cover;"
->
+<img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600" width="220" height="130" style="border-radius:10px;">
 
 <h3>🏋 GymX</h3>
 
@@ -92,9 +87,9 @@ style="border-radius:12px;object-fit:cover;"
 Enterprise Gym Management Platform
 </p>
 
-<b>
+<strong>
 ASP.NET Core • Django • PostgreSQL
-</b>
+</strong>
 
 </a>
 
@@ -105,12 +100,7 @@ ASP.NET Core • Django • PostgreSQL
 
 <a href="https://github.com/mostafamohamed521/CINEMATCH">
 
-<img 
-src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600"
-width="250"
-height="150"
-style="border-radius:12px;object-fit:cover;"
->
+<img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600" width="220" height="130" style="border-radius:10px;">
 
 <h3>🎬 CINEMATCH</h3>
 
@@ -118,9 +108,9 @@ style="border-radius:12px;object-fit:cover;"
 AI Movie Recommendation Platform
 </p>
 
-<b>
+<strong>
 React • AI • TMDB API
-</b>
+</strong>
 
 </a>
 
@@ -131,12 +121,7 @@ React • AI • TMDB API
 
 <a href="https://github.com/mostafamohamed521/WEBTECH">
 
-<img 
-src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600"
-width="250"
-height="150"
-style="border-radius:12px;object-fit:cover;"
->
+<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600" width="220" height="130" style="border-radius:10px;">
 
 <h3>🛒 WEBTECH</h3>
 
@@ -144,14 +129,13 @@ style="border-radius:12px;object-fit:cover;"
 Modern E-Commerce Platform
 </p>
 
-<b>
+<strong>
 React • Django REST
-</b>
+</strong>
 
 </a>
 
 </td>
-
 
 </tr>
 
@@ -163,12 +147,7 @@ React • Django REST
 
 <a href="https://github.com/mostafamohamed521/qr_generator">
 
-<img 
-src="https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=600"
-width="250"
-height="150"
-style="border-radius:12px;object-fit:cover;"
->
+<img src="https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=600" width="220" height="130" style="border-radius:10px;">
 
 <h3>🔳 QR Forge</h3>
 
@@ -176,9 +155,9 @@ style="border-radius:12px;object-fit:cover;"
 Professional QR Generator
 </p>
 
-<b>
+<strong>
 Django • JavaScript
-</b>
+</strong>
 
 </a>
 
@@ -190,12 +169,7 @@ Django • JavaScript
 
 <a href="https://github.com/mostafamohamed521/Sarab">
 
-<img 
-src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=600"
-width="250"
-height="150"
-style="border-radius:12px;object-fit:cover;"
->
+<img src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=600" width="220" height="130" style="border-radius:10px;">
 
 <h3>🍔 Sarab</h3>
 
@@ -203,9 +177,9 @@ style="border-radius:12px;object-fit:cover;"
 Restaurant Ordering Platform
 </p>
 
-<b>
+<strong>
 Django
-</b>
+</strong>
 
 </a>
 
@@ -217,12 +191,7 @@ Django
 
 <a href="https://github.com/mostafamohamed521/MaleFashion">
 
-<img 
-src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600"
-width="250"
-height="150"
-style="border-radius:12px;object-fit:cover;"
->
+<img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600" width="220" height="130" style="border-radius:10px;">
 
 <h3>👔 MaleFashion</h3>
 
@@ -230,9 +199,9 @@ style="border-radius:12px;object-fit:cover;"
 Fashion E-Commerce
 </p>
 
-<b>
+<strong>
 Django
-</b>
+</strong>
 
 </a>
 
@@ -240,6 +209,7 @@ Django
 
 
 </tr>
+
 
 </table>
 
