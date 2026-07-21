@@ -4,9 +4,9 @@
 
 ### Software Engineer
 
-Building scalable web applications with **ASP.NET Core**, **Django**, and **React**.
+Building scalable software with **ASP.NET Core**, **Django**, and **React**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full-Stack+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full-Stack+Developer;REST+API+Developer;Always+Learning"/>
 
 <br>
 
@@ -16,7 +16,133 @@ Building scalable web applications with **ASP.NET Core**, **Django**, and **Reac
 
 <img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge"/>
 
-<br><br>
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="60%">
+
+## About
+
+Software Engineer focused on building scalable backend systems, enterprise applications, and modern web experiences.
+
+My primary stack is **ASP.NET Core**, **Django**, and **React**, with additional experience in Linux, Docker, REST APIs, databases, and application security.
+
+Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Microservices**.
+
+### Current Focus
+
+- ASP.NET Core
+- Django REST Framework
+- React
+- Docker
+- Linux
+- PostgreSQL
+- OWASP Top 10
+
+</td>
+
+<td width="40%">
+
+<img src="YOUR_PROGRAMMER_IMAGE.png" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏋 **GymX** | Enterprise Gym Management Platform | ASP.NET Core • Django |
+| 🎬 **CINEMATCH** | AI Movie Recommendation Platform | React • Machine Learning |
+| 🛒 **WEBTECH** | Modern Full Stack E-Commerce | React • DRF |
+| 🔳 **QR Forge** | Professional QR Code Generator | Django |
+| 🍔 **Sarab** | Restaurant Ordering Platform | Django |
+| 👔 **MaleFashion** | Premium Fashion Store | Django |
+
+---
+
+# ⚙ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,js,dart,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,django"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,aws"/>
+</p>
+
+### Security
+
+`OWASP Top 10` • `JWT` • `RBAC` • `REST APIs`
+
+---
+
+# 📜 Certifications
+
+- Django REST Framework
+- Python Essentials
+- Red Hat System Administration I
+- Database Fundamentals
+- Practical Ethical Hacking
+- OWASP Top 10
+- Cloud Security Fundamentals
+- Network Security Fundamentals
+- Cybersecurity Fundamentals
+- Cisco Networking
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed521&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mostafamohamed521&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Connect
+
+<p align="center">
 
 <a href="mailto:mostafamohamed92895@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -30,34 +156,12 @@ Building scalable web applications with **ASP.NET Core**, **Django**, and **Reac
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<img align="right" width="340" src="YOUR_PROGRAMMER_IMAGE_LINK"/>
+<p align="center">
 
-## About
+<img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg"/>
 
-I'm a **Software Engineer** passionate about building modern, scalable, and production-ready software.
-
-My primary expertise is in **ASP.NET Core**, **Django**, and **React**, with hands-on experience developing enterprise management systems, AI-powered applications, REST APIs, and full-stack web platforms.
-
-I'm continuously expanding my knowledge in **Cloud Computing**, **DevOps**, **System Design**, **Linux**, and **Application Security** to build reliable software that solves real business problems.
-
-<br>
-
-### Currently Working With
-
-```txt
-Backend        ASP.NET Core • Django • Django REST Framework
-
-Frontend       React • JavaScript • Flutter
-
-Database       PostgreSQL • SQL Server • MySQL • SQLite
-
-DevOps         Docker • Linux • Git • GitHub Actions
-
-Security       OWASP Top 10 • JWT • RBAC • REST APIs
-```
-
----
+</p>
