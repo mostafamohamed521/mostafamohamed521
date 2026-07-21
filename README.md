@@ -1,12 +1,12 @@
 <div align="center">
 
-# Mostafa Mohamed
+# Hi 👋, I'm Mostafa Mohamed
 
 ### Software Engineer
 
 Building scalable software with **ASP.NET Core**, **Django**, and **React**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full-Stack+Developer;REST+API+Developer;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Full-Stack+Developer;REST+API+Developer;Cloud+%26+DevOps+Learner"/>
 
 <br>
 
@@ -23,20 +23,20 @@ Building scalable software with **ASP.NET Core**, **Django**, and **React**.
 <table>
 <tr>
 
-<td width="60%">
+<td width="58%">
 
-## About
+## 👨‍💻 About Me
 
-Software Engineer focused on building scalable backend systems, enterprise applications, and modern web experiences.
+Software Engineer passionate about building modern, scalable and secure applications.
 
-My primary stack is **ASP.NET Core**, **Django**, and **React**, with additional experience in Linux, Docker, REST APIs, databases, and application security.
+My main focus is Backend Engineering using **ASP.NET Core** and **Django**, while also building modern frontends with **React**.
 
-Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Microservices**.
+Currently learning Cloud, DevOps, Microservices and Software Architecture.
 
 ### Current Focus
 
 - ASP.NET Core
-- Django REST Framework
+- Django
 - React
 - Docker
 - Linux
@@ -45,9 +45,9 @@ Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Mi
 
 </td>
 
-<td width="40%">
+<td width="42%">
 
-<img src="YOUR_PROGRAMMER_IMAGE.png" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
 
@@ -58,14 +58,81 @@ Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Mi
 
 # 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏋 **GymX** | Enterprise Gym Management Platform | ASP.NET Core • Django |
-| 🎬 **CINEMATCH** | AI Movie Recommendation Platform | React • Machine Learning |
-| 🛒 **WEBTECH** | Modern Full Stack E-Commerce | React • DRF |
-| 🔳 **QR Forge** | Professional QR Code Generator | Django |
-| 🍔 **Sarab** | Restaurant Ordering Platform | Django |
-| 👔 **MaleFashion** | Premium Fashion Store | Django |
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏋 GymX
+
+Enterprise Gym Management Platform
+
+**ASP.NET Core • Django • PostgreSQL**
+
+</td>
+
+<td width="50%">
+
+## 🎬 CINEMATCH
+
+AI Movie Recommendation Platform
+
+**React • Machine Learning**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛒 WEBTECH
+
+Modern E-Commerce Platform
+
+**React • Django REST**
+
+</td>
+
+<td width="50%">
+
+## 🔳 QR Forge
+
+Professional QR Code Generator
+
+**Django**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🍔 Sarab
+
+Restaurant Ordering Platform
+
+**Django**
+
+</td>
+
+<td width="50%">
+
+## 👔 MaleFashion
+
+Fashion E-Commerce Platform
+
+**Django**
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -98,12 +165,12 @@ Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Mi
 ### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,aws"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions"/>
 </p>
 
 ### Security
 
-`OWASP Top 10` • `JWT` • `RBAC` • `REST APIs`
+OWASP Top 10 • JWT • RBAC • REST APIs
 
 ---
 
@@ -117,7 +184,6 @@ Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Mi
 - OWASP Top 10
 - Cloud Security Fundamentals
 - Network Security Fundamentals
-- Cybersecurity Fundamentals
 - Cisco Networking
 
 ---
@@ -140,7 +206,15 @@ Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Mi
 
 ---
 
-# 🤝 Connect
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -155,13 +229,5 @@ Currently exploring **Cloud Computing**, **DevOps**, **System Design**, and **Mi
 <a href="https://github.com/mostafamohamed521">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
