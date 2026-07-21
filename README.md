@@ -400,3 +400,193 @@ Responsive
 </table>
 
 ---
+# ⚙️ Engineering Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,js,dart,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,django"/>
+</p>
+
+**Core Expertise**
+
+`ASP.NET Core` • `Django` • `Django REST Framework` • `REST APIs`
+`Authentication` • `Authorization` • `JWT`
+`Role-Based Access Control` • `API Integration`
+
+---
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,flutter"/>
+</p>
+
+`React`
+`JavaScript`
+`Tailwind CSS`
+`Bootstrap`
+`Flutter`
+`Responsive UI`
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+`PostgreSQL`
+`SQL Server`
+`MySQL`
+`SQLite`
+
+Database Design • Query Optimization • Data Modeling
+
+---
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,aws"/>
+</p>
+
+`Docker`
+
+`Linux`
+
+`Git`
+
+`GitHub Actions`
+
+`CI/CD`
+
+`AWS`
+
+`Kubernetes`
+
+---
+
+### Security
+
+🛡️ OWASP Top 10
+
+🔐 JWT Authentication
+
+🔒 Secure REST APIs
+
+👤 RBAC
+
+🐧 Linux Administration
+
+🧪 Basic Penetration Testing
+
+</div>
+
+---
+
+# 📜 Certifications
+
+### 🖥️ Software Development
+
+- Django REST Framework — Advanced
+- Python Essentials 1
+- Database Fundamentals
+
+---
+
+### 🔐 Cybersecurity
+
+- Practical Ethical Hacking
+- OWASP Top 10 (Web)
+- Ethical Hacker Job Profile
+- Cybersecurity Fundamentals
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+- Cloud Security Fundamentals
+- Network Security Fundamentals
+- Red Hat System Administration I
+- Networking Devices & Initial Configuration
+
+---
+
+### 🌐 Networking
+
+- Introduction to Cybersecurity
+- Cisco Networking Academy
+
+# 🏆 Highlights
+
+🏗 Built multiple production-scale web applications
+
+🚀 Designed enterprise management systems
+
+🤖 Developed AI-powered recommendation platforms
+
+🛒 Built complete e-commerce ecosystems
+
+🔐 Strong understanding of secure web development
+
+📦 Experience designing RESTful APIs
+
+🐳 Working with Docker & Linux environments
+
+📚 Continuously learning cloud-native technologies
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed521&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mostafamohamed521&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting software projects, open-source contributions, and innovative ideas.
+
+<div align="center">
+
+<a href="mailto:mostafamohamed92895@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mostafamohamed92895">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mostafamohamed521">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building software that creates real impact."*
+
+</div>
