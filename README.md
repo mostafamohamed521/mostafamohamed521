@@ -1,71 +1,71 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,100:2563EB&text=Mostafa%20Mohamed&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20•%20Backend%20Developer&descAlignY=68"/>
 
-<br>
+<h2>Software Engineer</h2>
 
-# Mostafa Mohamed
+<p>
+Building scalable applications with
+<strong>ASP.NET Core</strong>,
+<strong>Django</strong>,
+<strong>React</strong>,
+and modern cloud technologies.
+</p>
 
-### Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;ASP.NET+Core+Developer;Django+Backend+Developer;React+Developer;Cloud+%26+DevOps+Learner"/>
 
-Building scalable software with **ASP.NET Core**, **Django**, **React**, and modern cloud technologies.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;ASP.NET+Core+%7C+Django+%7C+React;REST+API+Developer;Cloud+%26+DevOps+Learner"/>
-
-<br>
+<br><br>
 
 <a href="mailto:mostafamohamed92895@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/mostafamohamed92895">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mostafamohamed92895">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mostafamohamed521">
-<img src="https://img.shields.io/github/followers/mostafamohamed521?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/mostafamohamed521?style=flat-square"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=flat-square"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About
 
 <table>
 <tr>
 
-<td width="58%">
+<td width="60%">
 
-Software Engineer passionate about building modern, scalable and secure applications.
+Software Engineer passionate about building secure, scalable and production-ready applications.
 
-My primary focus is developing high-quality backend systems using **ASP.NET Core** and **Django**, while creating modern user interfaces with **React**.
+### Focus Areas
 
-Currently expanding my expertise in **Cloud Computing**, **DevOps**, **System Design**, **Microservices**, and **Application Security**.
-
-### Currently Working With
-
-- 💙 ASP.NET Core
+- ⚡ ASP.NET Core
 - 🐍 Django
 - ⚛ React
+- ☁ Cloud Computing
 - 🐳 Docker
 - 🐧 Linux
-- 🗄 PostgreSQL
+- 🏗 System Design
 - 🔐 OWASP Top 10
 
 </td>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-<img src="assets/programmer.png" width="320"/>
+<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </td>
 
 </tr>
 </table>
 
+---
 ---
 # 🚀 Featured Projects
 
