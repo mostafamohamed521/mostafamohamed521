@@ -1,124 +1,157 @@
 <div align="center">
 
-# 👋 Hi, I'm Mostafa Mohamed
-
-### Backend Django Developer | REST API Developer | CS Student @ Mansoura University
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Django+Developer;REST+API+Developer;Python+Enthusiast;Building+Full-Stack+Products" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Mostafa%20Mohamed&fontAlignY=38&fontSize=55&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;ASP.NET+Core+%7C+Django+%7C+React;Building+Scalable+Web+Applications;Backend+Architecture+%7C+REST+APIs;Always+Learning+Something+New"/>
+
+<br><br>
+
 <a href="https://github.com/mostafamohamed521">
-<img src="https://img.shields.io/github/followers/mostafamohamed521?label=Followers&style=for-the-badge&color=58A6FF"/>
+<img src="https://img.shields.io/github/followers/mostafamohamed521?style=for-the-badge&logo=github&label=Followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge&color=58A6FF"/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge"/>
 
----
-
-## 💫 About Me
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 Third-year Computer Science student, Faculty of Computers and Information, Mansoura University
-- 💻 Backend developer specializing in Django & Django REST Framework
-- 🌐 Comfortable across the stack — React and Flutter for frontend/mobile when a project needs it
-- 🎨 Strong focus on clean, professional, production-quality builds — not just "it works," but well-structured and well-designed
-- 🌱 Currently learning: Docker, CI/CD, System Design, AWS, Kubernetes
-- 🎯 2026 goals: become a strong Backend Software Engineer, master Docker & cloud deployment, contribute to open source
-
-<br clear="right"/>
-
----
-
-
-## 🌐 Connect With Me
-
-<p align="center">
 <a href="mailto:mostafamohamed92895@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/mostafamohamed92895">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/mostafamohamed521">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
 </a>
-</p>
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=python,django,flask"/></p>
-
-**Frontend & Mobile**
-<p><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,dart,flutter"/></p>
-
-**Database**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/></p>
-
-**Tools & DevOps**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/></p>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+# 👋 Hello, I'm Mostafa Mohamed
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafamohamed521&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed521&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+> **Software Engineer focused on building scalable, secure and modern web applications.**
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mostafamohamed521&theme=github-dark-blue&hide_border=true"/>
-</p>
+I enjoy transforming ideas into production-ready software by combining backend engineering, frontend development, security best practices, and clean architecture.
+
+My primary focus is building enterprise-grade applications using **ASP.NET Core**, **Django**, and **React**, while continuously expanding my expertise in **Cloud**, **DevOps**, **System Design**, and **Cybersecurity**.
 
 ---
 
-## 🗺️ Backend Roadmap
+# ⚡ Engineering Snapshot
 
-```text
-✅ Python                     ████████████████████ 100%
-✅ OOP                        ████████████████████ 100%
-✅ Django                     ██████████████████░░ 90%
-✅ Django REST Framework       █████████████████░░░ 85%
-🟨 PostgreSQL                  ████████████████░░░░ 80%
-🟨 Docker                      █████████████░░░░░░░ 65%
-⬜ Redis                      ██████░░░░░░░░░░░░░░ 30%
-⬜ Celery                     █████░░░░░░░░░░░░░░░ 25%
-⬜ CI/CD                      █████░░░░░░░░░░░░░░░ 25%
-⬜ Kubernetes                  ███░░░░░░░░░░░░░░░░░ 15%
-⬜ AWS                        ██░░░░░░░░░░░░░░░░░░ 10%
+```yaml
+Name: Mostafa Mohamed
+
+Role:
+  Software Engineer
+
+Specialization:
+  Full Stack Web Development
+
+Backend:
+  - ASP.NET Core
+  - Django
+  - Django REST Framework
+
+Frontend:
+  - React
+  - JavaScript
+  - HTML5
+  - CSS3
+  - Bootstrap
+  - Tailwind CSS
+
+Databases:
+  - PostgreSQL
+  - SQL Server
+  - MySQL
+  - SQLite
+
+Security:
+  - OWASP Top 10
+  - JWT Authentication
+  - RBAC
+  - Secure REST APIs
+
+Currently Learning:
+  - Docker
+  - Kubernetes
+  - AWS
+  - CI/CD
+  - Clean Architecture
+  - Microservices
+
+Location:
+  Egypt 🇪🇬
 ```
 
 ---
 
-## 💬 Favorite Quote
+# 🚀 What I Build
 
-<div align="center">
+<table>
+<tr>
 
-> "Code is like humor. When you have to explain it, it's bad."
-> — Cory House
+<td width="33%" align="center">
 
-</div>
+### 🏗 Enterprise Systems
+
+Business platforms
+
+Management systems
+
+Dashboards
+
+Admin panels
+
+REST APIs
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ Full Stack Apps
+
+React
+
+ASP.NET
+
+Django
+
+Responsive UI
+
+Modern UX
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 Secure Software
+
+Authentication
+
+Authorization
+
+OWASP
+
+Linux
+
+API Security
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<div align="center">
+# 💡 Engineering Philosophy
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-### ⭐ Thanks for visiting! If you like my work, consider starring my repos.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=140&section=footer"/>
-
-</div>
+> **"I don't just write code. I design systems that are scalable, maintainable, and built for real users."**
