@@ -58,11 +58,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <td width="40%" align="center">
 
-<img 
-width="300"
-src="https://i.giphy.com/KVr0JbrdBp9KX644Bk.gif"
-alt="Animated Avatar"
-/>
+<img width="320" src="https://i.giphy.com/KVr0JbrdBp9KX644Bk.gif"/>
 
 </td>
 
