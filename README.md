@@ -60,8 +60,8 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <img 
 width="300"
-src="https://api.dicebear.com/9.x/bottts/svg?seed=Mostafa&backgroundColor=0b1220"
-alt="Programming Avatar"
+src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif"
+alt="Animated Avatar"
 />
 
 </td>
