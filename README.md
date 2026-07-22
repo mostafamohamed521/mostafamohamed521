@@ -58,7 +58,11 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <td width="40%" align="center">
 
-<img width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d5MmhvYXdubHdoNGZzMXFrM2VpbmcwdHp3aDd4eWdjMHVhamRpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif"/>
+<img
+  width="300"
+  src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif"
+  alt="Developer Animation"
+/>
 
 </td>
 
