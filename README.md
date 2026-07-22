@@ -79,7 +79,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <a href="https://github.com/mostafamohamed521/GymX">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:7C2D12&height=130&text=GymX&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:7C2D12&height=130&text=GymX&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;](https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso)">
 
 <h3>🏋 GymX</h3>
 
