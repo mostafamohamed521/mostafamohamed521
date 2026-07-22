@@ -290,7 +290,7 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mostafamohamed521&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://raw.githubusercontent.com/mostafamohamed521/mostafamohamed521/main/trophy.svg"/>
 
 </div>
 
