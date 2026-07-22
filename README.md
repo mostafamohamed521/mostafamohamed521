@@ -58,7 +58,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <td width="40%" align="center">
 
-<img width="320" src="https://i.giphy.com/KVr0JbrdBp9KX644Bk.gif"/>
+<img width="320" src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif"/>
 
 </td>
 
