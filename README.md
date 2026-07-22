@@ -60,7 +60,7 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <img 
 width="300"
-src="[https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif](https://giphy.com/gifs/FindSatoshiLab-fsl-stepn-go-KVr0JbrdBp9KX644Bk"
+src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif](https://giphy.com/gifs/FindSatoshiLab-fsl-stepn-go-KVr0JbrdBp9KX644Bk"
 alt="Animated Avatar"
 />
 
