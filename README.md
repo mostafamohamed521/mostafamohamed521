@@ -58,7 +58,11 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <td width="40%" align="center">
 
-<img width="320" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:0B1220&text=Code&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img 
+width="300"
+src="https://api.dicebear.com/9.x/bottts/svg?seed=Mostafa&backgroundColor=0b1220"
+alt="Programming Avatar"
+/>
 
 </td>
 
