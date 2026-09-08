@@ -2,17 +2,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,100:2563EB&text=Mostafa%20Mohamed&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Django%20%26%20ASP.NET%20Core&descAlignY=68" alt="Mostafa Mohamed"/>
 
-<h2>Full-Stack Developer</h2>
+<h2>Full-Stack Developer | Backend-Focused</h2>
 
 <p>
-Building modern, secure and scalable web applications with
+Building modern, secure, and scalable web applications with
 <strong>Django</strong>,
 <strong>ASP.NET Core</strong>,
 <strong>React</strong>,
 and modern web technologies.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Django+Backend+Developer;ASP.NET+Core+Developer;React+Developer;REST+API+Developer;Web+Security+Enthusiast" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Django+Backend+Developer;ASP.NET+Core+Developer;React+Developer;REST+API+Developer;Building+Secure+%26+Scalable+Applications" alt="Typing Animation"/>
 
 <br><br>
 
@@ -34,41 +34,39 @@ and modern web technologies.
 
 ---
 
-## 👨‍💻 About
+# 👨‍💻 About Me
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="62%">
 
-Software Engineer and **Full-Stack Developer** passionate about building secure, scalable and production-ready applications.
+I'm a **Full-Stack Developer** with a strong focus on backend development, system architecture, and building secure, scalable web applications.
 
-My primary backend focus is **Django** and **ASP.NET Core**, with **React** for modern frontend development.
+My primary backend technologies are **Django**, **Django REST Framework**, and **ASP.NET Core**, combined with **React** for building modern and interactive user interfaces.
 
-### Focus Areas
+I enjoy transforming ideas into production-ready applications, designing clean APIs, building reliable authentication systems, and creating maintainable software architectures.
 
-- 🐍 Django
-- ⚡ Django REST Framework
-- 🔷 ASP.NET Core
-- ⚛️ React
-- 🌐 REST APIs
-- 🔐 Authentication & Authorization
-- 👥 JWT & RBAC
-- 🗄️ Database Design
-- 🏗️ System Architecture
-- 🐳 Docker
-- 🐧 Linux
-- ☁️ Cloud & DevOps
-- 🛡️ OWASP Top 10
+### 🎯 Current Focus
+
+* 🐍 Django & Django REST Framework
+* 🔷 ASP.NET Core
+* ⚛️ React & Modern Frontend Development
+* 🌐 RESTful API Design
+* 🔐 Authentication, JWT & RBAC
+* 🗄️ Database Design
+* 🏗️ Clean Architecture & System Design
+* 🐳 Docker & Deployment
+* 🛡️ Web & API Security
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
 <img
-  width="300"
-  src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif"
-  alt="Developer Animation"
+width="280"
+src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif"
+alt="Developer Animation"
 />
 
 </td>
@@ -99,7 +97,7 @@ alt="GymX"
 <h3>🏋️ GymX</h3>
 
 <p>
-Enterprise Gym Management Platform
+Full-featured gym management platform designed to manage members, subscriptions, and gym operations.
 </p>
 
 <strong>
@@ -119,7 +117,6 @@ alt="GymX Live Demo"
 
 </td>
 
-
 <td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/CINEMATCH">
@@ -133,17 +130,16 @@ alt="CINEMATCH"
 <h3>🎬 CINEMATCH</h3>
 
 <p>
-AI Movie Recommendation Platform
+AI-powered movie recommendation platform that helps users discover movies based on content similarity and preferences.
 </p>
 
 <strong>
-React • AI • TMDB API
+React • TypeScript • AI • TMDB API
 </strong>
 
 </a>
 
 </td>
-
 
 <td width="33%" align="center">
 
@@ -158,11 +154,11 @@ alt="WEBTECH"
 <h3>🛒 WEBTECH</h3>
 
 <p>
-Modern E-Commerce Platform
+Modern full-stack e-commerce platform with interactive product experiences and REST API integration.
 </p>
 
 <strong>
-React • Django REST
+React • Django • REST APIs
 </strong>
 
 </a>
@@ -170,7 +166,6 @@ React • Django REST
 </td>
 
 </tr>
-
 
 <tr>
 
@@ -187,11 +182,11 @@ alt="QR Forge"
 <h3>🔳 QR Forge</h3>
 
 <p>
-Professional QR Code Generator
+Professional QR code generation platform with a clean interface and practical customization features.
 </p>
 
 <strong>
-Django • JavaScript
+Django • Python • JavaScript
 </strong>
 
 </a>
@@ -207,7 +202,6 @@ alt="QR Forge Live Demo"
 
 </td>
 
-
 <td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/Sarab">
@@ -221,11 +215,11 @@ alt="Sarab"
 <h3>🍔 Sarab</h3>
 
 <p>
-Restaurant Ordering Platform
+Restaurant ordering platform with online ordering, backend APIs, and payment integration.
 </p>
 
 <strong>
-Django • REST API • Stripe
+Django • REST APIs • Stripe
 </strong>
 
 </a>
@@ -241,7 +235,6 @@ alt="Sarab Live Demo"
 
 </td>
 
-
 <td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/MaleFashion">
@@ -255,11 +248,11 @@ alt="MaleFashion"
 <h3>👔 MaleFashion</h3>
 
 <p>
-Fashion E-Commerce
+Fashion-focused e-commerce application built with Django and modern web development practices.
 </p>
 
 <strong>
-Django
+Django • Python • Web Development
 </strong>
 
 </a>
@@ -281,7 +274,7 @@ Django
 ### 💻 Languages
 
 <img
-src="https://skillicons.dev/icons?i=python,cs,js,ts,dart,html,css"
+src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css"
 alt="Programming Languages"
 />
 
@@ -316,18 +309,23 @@ src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtoken
 alt="JWT"
 />
 
+<img
+src="https://img.shields.io/badge/RBAC-2563EB?style=flat-square"
+alt="Role Based Access Control"
+/>
+
 ---
 
 ### 🎨 Frontend
 
 <img
-src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter"
+src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"
 alt="Frontend Technologies"
 />
 
 ---
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <img
 src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"
@@ -336,38 +334,30 @@ alt="Databases"
 
 ---
 
-### ☁️ DevOps & Cloud
+### 🛠️ Tools & DevOps
 
 <img
-src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,aws"
-alt="DevOps and Cloud"
+src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman"
+alt="Tools and DevOps"
 />
-
----
-
-### 🔐 Security
-
-<img
-src="https://skillicons.dev/icons?i=postman"
-alt="Postman"
-/>
-
-<br><br>
-
-OWASP Top 10 • JWT • RBAC • REST APIs • API Security
 
 </div>
 
 ---
 
-# 📜 Certifications
+# 📚 Learning & Professional Development
 
-| Backend | Cybersecurity | Infrastructure |
-|----------|---------------|----------------|
-| ✅ Django REST Framework | ✅ Practical Ethical Hacking | ✅ Red Hat System Administration |
-| ✅ Python Essentials | ✅ OWASP Top 10 | ✅ Database Fundamentals |
-| ✅ REST API Development | ✅ Cloud Security | ✅ Linux Administration |
-| 🔄 ASP.NET Core | ✅ Network Security | ✅ Cisco Networking |
+<div align="center">
+
+| Backend & Software Development    | Security                          | Systems & Infrastructure         |
+| --------------------------------- | --------------------------------- | -------------------------------- |
+| 🐍 Django & Django REST Framework | 🔐 OWASP Top 10                   | 🐧 Linux Administration          |
+| 🌐 REST API Development           | 🛡️ API Security                  | 🖥️ System Administration        |
+| 🐍 Python Development             | 🔑 Authentication & Authorization | 🗄️ Database Fundamentals        |
+| 🔷 ASP.NET Core                   | 🌐 Web Security                   | 🔴 Red Hat System Administration |
+| 🏗️ System Architecture           | 🔐 Network Security Fundamentals  | 🌍 Networking Fundamentals       |
+
+</div>
 
 ---
 
@@ -435,7 +425,7 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-### Thanks for Visiting ❤️
+### Thanks for Visiting 👋
 
 <strong>
 Full-Stack Developer • Django • ASP.NET Core • React
@@ -445,7 +435,7 @@ Full-Stack Developer • Django • ASP.NET Core • React
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=140&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=140&section=footer"
 alt="Footer"
 />
 
