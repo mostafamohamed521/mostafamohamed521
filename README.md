@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,100:2563EB&text=Mostafa%20Mohamed&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20•%20Backend%20Developer&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,100:2563EB&text=Mostafa%20Mohamed&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20%26%20Frontend&descAlignY=68"/>
 
-<h2>Software Engineer</h2>
+<h2>Full Stack Developer</h2>
 
 <p>
-Building scalable applications with
-<strong>ASP.NET Core</strong>,
-<strong>Django</strong>,
+Building modern, scalable and production-ready applications with
 <strong>React</strong>,
-and modern cloud technologies.
+<strong>Django</strong>,
+<strong>ASP.NET Core</strong>,
+and modern web technologies.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;ASP.NET+Core+Developer;Django+Backend+Developer;React+Developer;Cloud+%26+DevOps+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Django+Backend+Developer;ASP.NET+Core+Developer;REST+API+Developer;Cloud+%26+DevOps+Learner"/>
 
 <br><br>
 
@@ -41,27 +41,30 @@ and modern cloud technologies.
 
 <td width="60%">
 
-Software Engineer passionate about building secure, scalable and production-ready applications.
+Computer Science student and Full Stack Developer focused on building secure, scalable and production-ready web applications.
+
+I work across the full development cycle, from responsive React interfaces to robust backend systems and REST APIs.
 
 ### Focus Areas
 
-- ⚡ ASP.NET Core
-- 🐍 Django
-- ⚛ React
-- ☁ Cloud Computing
-- 🐳 Docker
-- 🐧 Linux
-- 🏗 System Design
-- 🔐 OWASP Top 10
+* ⚛️ React & Modern Frontend Development
+* 🐍 Django & Django REST Framework
+* 💻 ASP.NET Core / .NET
+* 🔌 REST APIs & JWT Authentication
+* 🗄 PostgreSQL, MySQL & SQLite
+* 🔐 RBAC, Security & OWASP
+* 🐳 Docker & Linux
+* ☁️ Cloud & Deployment
+* 🏗 System Design & Clean Architecture
 
 </td>
 
 <td width="40%" align="center">
 
 <img
-  width="300"
-  src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif"
-  alt="Developer Animation"
+width="300"
+src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif"
+alt="Developer Animation"
 />
 
 </td>
@@ -70,7 +73,7 @@ Software Engineer passionate about building secure, scalable and production-read
 </table>
 
 ---
----
+
 # 🚀 Featured Projects
 
 <div align="center">
@@ -81,77 +84,49 @@ Software Engineer passionate about building secure, scalable and production-read
 
 <td width="33%" align="center">
 
+<a href="https://github.com/mostafamohamed521/Eflyer">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0B1220&height=130&text=Eflyer&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130"/>
+
+<h3>🛒 Eflyer</h3>
+
+<p>
+Full-Stack E-Commerce Platform
+</p>
+
+<strong>
+Django • DRF • JWT • PostgreSQL
+</strong>
+
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
 <a href="https://github.com/mostafamohamed521/GymX">
 
-<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:7C2D12&height=130&text=GymX&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;](https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso)">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:7C2D12&height=130&text=GymX&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130"/>
 
-<h3>🏋 GymX</h3>
+<h3>🏋️ GymX</h3>
 
 <p>
-Enterprise Gym Management Platform
+Gym Management Platform
 </p>
 
 <strong>
-ASP.NET Core • Django • PostgreSQL
+Django • RBAC • REST APIs
 </strong>
 
 </a>
 
 </td>
-
-
-<td width="33%" align="center">
-
-<a href="https://github.com/mostafamohamed521/CINEMATCH">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:1E1B4B&height=130&text=CINEMATCH&fontSize=28&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
-
-<h3>🎬 CINEMATCH</h3>
-
-<p>
-AI Movie Recommendation Platform
-</p>
-
-<strong>
-React • AI • TMDB API
-</strong>
-
-</a>
-
-</td>
-
-
-<td width="33%" align="center">
-
-<a href="https://github.com/mostafamohamed521/WEBTECH">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:022C22&height=130&text=WEBTECH&fontSize=30&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
-
-<h3>🛒 WEBTECH</h3>
-
-<p>
-Modern E-Commerce Platform
-</p>
-
-<strong>
-React • Django REST
-</strong>
-
-</a>
-
-</td>
-
-</tr>
-
-
-<tr>
-
 
 <td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/qr_generator">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:0C4A6E&height=130&text=QR%20Forge&fontSize=30&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:0C4A6E&height=130&text=QR%20Forge&fontSize=30&fontColor=ffffff&fontAlignY=55" width="220" height="130"/>
 
 <h3>🔳 QR Forge</h3>
 
@@ -167,13 +142,55 @@ Django • JavaScript
 
 </td>
 
+</tr>
 
+<tr>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/mostafamohamed521/CINEMATCH">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:1E1B4B&height=130&text=CINEMATCH&fontSize=28&fontColor=ffffff&fontAlignY=55" width="220" height="130"/>
+
+<h3>🎬 CINEMATCH</h3>
+
+<p>
+AI Movie Recommendation Platform
+</p>
+
+<strong>
+React • AI • TMDB API
+</strong>
+
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/mostafamohamed521/SentinelX">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:450A0A&height=130&text=SentinelX&fontSize=30&fontColor=ffffff&fontAlignY=55" width="220" height="130"/>
+
+<h3>🛡️ SentinelX</h3>
+
+<p>
+AI Security Observation Platform
+</p>
+
+<strong>
+React • Laravel • AI
+</strong>
+
+</a>
+
+</td>
 
 <td width="33%" align="center">
 
 <a href="https://github.com/mostafamohamed521/Sarab">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:7C2D12&height=130&text=Sarab&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:7C2D12&height=130&text=Sarab&fontSize=34&fontColor=ffffff&fontAlignY=55" width="220" height="130"/>
 
 <h3>🍔 Sarab</h3>
 
@@ -182,42 +199,21 @@ Restaurant Ordering Platform
 </p>
 
 <strong>
-Django
+Django • REST API
 </strong>
 
 </a>
 
 </td>
-
-
-
-<td width="33%" align="center">
-
-<a href="https://github.com/mostafamohamed521/MaleFashion">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:111111&height=130&text=MaleFashion&fontSize=26&fontColor=ffffff&fontAlignY=55" width="220" height="130" style="border-radius:10px;object-fit:cover;">
-
-<h3>👔 MaleFashion</h3>
-
-<p>
-Fashion E-Commerce
-</p>
-
-<strong>
-Django
-</strong>
-
-</a>
-
-</td>
-
 
 </tr>
-
 
 </table>
 
 </div>
+
+---
+
 # ⚡ Tech Stack
 
 <div align="center">
@@ -230,7 +226,7 @@ Django
 
 ### 🚀 Backend
 
-<img src="https://skillicons.dev/icons?i=dotnet,django,nodejs"/>
+<img src="https://skillicons.dev/icons?i=django,dotnet,nodejs"/>
 
 ---
 
@@ -240,37 +236,39 @@ Django
 
 ---
 
-### 🗄 Database
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
 ---
 
-### ☁ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,aws"/>
 
 ---
 
-### 🔐 Security
+### 🔐 Security & APIs
 
 <img src="https://skillicons.dev/icons?i=postman"/>
 
-OWASP Top 10 • JWT • RBAC • REST APIs
+JWT • RBAC • REST APIs • OWASP Top 10 • API Security
 
 </div>
 
 ---
-# 📜 Certifications
 
-| Backend | Cybersecurity | Infrastructure |
-|----------|---------------|----------------|
-| ✅ Django REST Framework | ✅ Practical Ethical Hacking | ✅ Red Hat System Administration |
-| ✅ Python Essentials | ✅ OWASP Top 10 | ✅ Database Fundamentals |
-| ✅ REST API Development | ✅ Cloud Security | ✅ Linux Administration |
-| ✅ ASP.NET Core *(Learning)* | ✅ Network Security | ✅ Cisco Networking |
+# 📜 Certifications & Knowledge
+
+| Backend                 | Cybersecurity               | Infrastructure                  |
+| ----------------------- | --------------------------- | ------------------------------- |
+| ✅ Django REST Framework | ✅ OWASP Top 10              | ✅ Linux Administration          |
+| ✅ Python Essentials     | ✅ Practical Ethical Hacking | ✅ Red Hat System Administration |
+| ✅ REST API Development  | ✅ Network Security          | ✅ Database Fundamentals         |
+| ✅ ASP.NET Core          | ✅ Cloud Security            | ✅ Cisco Networking              |
 
 ---
+
 # 📈 GitHub Analytics
 
 <div align="center">
@@ -283,13 +281,10 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 
 <img width="70%" src="https://streak-stats.demolab.com?user=mostafamohamed521&theme=github-dark-blue&hide_border=true"/>
 
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostafamohamed521&theme=github-dark&hide_border=true"/>
-
 </div>
 
 ---
+
 # 🏆 GitHub Achievements
 
 <div align="center">
@@ -299,6 +294,7 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 </div>
 
 ---
+
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -308,9 +304,10 @@ OWASP Top 10 • JWT • RBAC • REST APIs
 </div>
 
 ---
+
 <div align="center">
 
-### Thanks for Visiting ❤️
+### 💙 Thanks for Visiting
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=140&section=footer"/>
 
