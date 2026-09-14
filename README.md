@@ -13,30 +13,31 @@ and modern web technologies.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Django+Backend+Developer;ASP.NET+Core+Developer;REST+API+Developer;Cloud+%26+DevOps+Learner"/>
 
 <br><br>
-
 <div align="center">
 
 <a href="mailto:mostafamohamed92895@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://www.linkedin.com/in/mostafamohamed92895">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://github.com/mostafamohamed521">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
-<a href="YOUR_X_PROFILE_URL">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="YOUR_SOCIAL_PROFILE_URL">
+<img src="https://img.shields.io/badge/Social-2563EB?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/mostafamohamed521?style=for-the-badge&label=Followers&logo=github&logoColor=white"/>   
+<a href="https://github.com/mostafamohamed521">
+<img src="https://img.shields.io/github/followers/mostafamohamed521?style=flat-square&label=Followers&logo=github&logoColor=white"/>
+</a>&nbsp;&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=flat-square&label=Profile+Views"/>
 
 </div>
 
