@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,100:2563EB&text=Mostafa%20Mohamed&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20%26%20Frontend&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Mostafa%20Mohamed&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20%26%20Frontend&descAlignY=60&descSize=20&color=0:0B1220,100:2563EB&animation=fadeIn" />
 
 <h2>Full Stack Developer</h2>
 
@@ -31,6 +31,9 @@ and modern web technologies.
 <img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=flat-square"/>
 
 </div>
+
+---
+
 
 ---
 
