@@ -27,15 +27,15 @@ and modern web technologies.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
 
-<a href="YOUR_SOCIAL_PROFILE_URL">
-<img src="https://img.shields.io/badge/Social-2563EB?style=for-the-badge&logo=linktree&logoColor=white"/>
+<a href="https://mostafa-mo7amed-portfolio.pages.dev/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/mostafamohamed521">
 <img src="https://img.shields.io/github/followers/mostafamohamed521?style=flat-square&label=Followers&logo=github&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=flat-square&label=Profile+Views"/>
 
