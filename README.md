@@ -278,7 +278,6 @@ JWT • RBAC • REST APIs • OWASP Top 10 • API Security
 <br><br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=mostafamohamed521&theme=github-dark-blue&hide_border=true"/>
-
 </div>
 
 ---
