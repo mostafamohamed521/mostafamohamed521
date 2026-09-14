@@ -14,19 +14,30 @@ and modern web technologies.
 
 <br><br>
 
+<div align="center">
+
 <a href="mailto:mostafamohamed92895@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mostafamohamed92895">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mostafamohamed521">
-<img src="https://img.shields.io/github/followers/mostafamohamed521?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=flat-square"/>
+<a href="https://github.com/mostafamohamed521">
+<img src="https://img.shields.io/github/followers/mostafamohamed521?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mostafamohamed521&style=for-the-badge&label=Profile+Views"/>
+
+</div>
+
 
 </div>
 
