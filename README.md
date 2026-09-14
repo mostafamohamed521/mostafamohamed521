@@ -32,9 +32,6 @@ and modern web technologies.
 
 ---
 
-
----
-
 ## 👨‍💻 About
 
 <table>
